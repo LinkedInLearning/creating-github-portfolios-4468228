@@ -12,6 +12,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   caption: "Photo credit: [**Unsplash: Robert Katzki**](https://unsplash.com/@ro_ka)"
+description: This series of articles explains basic color theory. The first post explores color limitations.
 ---
 
 >“Color does not add a pleasant quality to design—it reinforces it.”

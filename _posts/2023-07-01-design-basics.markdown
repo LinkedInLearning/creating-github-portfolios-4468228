@@ -11,6 +11,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1576153192396-180ecef2a715
   teaser: https://images.unsplash.com/photo-1576153192396-180ecef2a715
   caption: "Photo credit: [**Unsplash: Amélie Mourichon**](https://unsplash.com/@amayli)"
+description: This article explains basic design concepts that everyone should know.
 ---
 
 Your brain has two systems, a slow analytical side and a quick, instinctive "gut" side. For the most part, the instinctual side is lazy, conserving its energy for the "pounce". It doesn't want to think or stop and read, it wants shortcuts, assumptions, and skimming. It is this part of the brain that design speaks directly to. 
