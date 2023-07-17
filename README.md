@@ -1,4 +1,4 @@
-# Creating GitHub Portfolios
+# Creating GitHub Portfolios!
 This is the repository for the LinkedIn Learning course `Creating GitHub Portfolios`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
