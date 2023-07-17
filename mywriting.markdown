@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories_article
 title: My Writing
 ---
 
