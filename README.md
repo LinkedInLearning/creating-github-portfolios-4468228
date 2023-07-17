@@ -42,7 +42,7 @@ To resolve this issue:
 )
 * [Michael Rose's website](https://mademistakes.com/)
 
-## What you Should Know TEST
+## What you Should Know
 * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
 * [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4)
 * [CSS Fundementals](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling?u=2125562)
