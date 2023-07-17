@@ -30,9 +30,12 @@ Additionally, curriculum was developed to accompany the game.
 At the conclusion on the grant, it was decided not to pursue publishing of the game. I felt there was something missing. The mechanics worked well, and students collaborated, but it lacked and element of excitement and was too didactic.
 
 ![collboratory old](/assets/images/collaboratory_old.jpeg)
-[Original game promo video](https://youtu.be/vfk5_bkJQFg)
+{% include video id="vfk5_bkJQFg" provider="youtube" %}
+
 
 ## Next Steps
  In 2023, I reworked the theme of the game. I simplified the game by combining some of the cards and reduced the number of piece by getting rid of the tokens. Additionally, I decided the base game should be general business.
 
- We are invited to the Ed Games Expo, September 19-22, 2023. 
+ We are invited to the Ed Games Expo, September 19-22, 2023 and I recorded a new promo video for it:
+
+{% include video id="Yh-VWenRRy0" provider="youtube" %}
