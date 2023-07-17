@@ -1,0 +1,36 @@
+---
+layout: posts
+title:  "Piece of Cake"
+date:   2023-07-01 16:13:27 -0500
+tags: [tutorial, javascript]
+author_profile: true
+author: Leigh Stewardson
+categories: work
+highlight_home: true
+tagline: "How to write a function"
+header:
+  overlay_image: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3
+  teaser: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3
+  
+  caption: "Photo credit: [**Unsplash: Annie Spratt**](https://unsplash.com/@anniespratt)"
+---
+
+# Piece of Cake
+
+> To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.
+
+## Background
+Introducing coding concepts to young minds requires creativity and engaging approaches that resonate with their interests. In my experience teaching kids to code at Generation Code, I discovered that incorporating the analogy of cooking proved to be a highly effective and relatable teaching method. By comparing variables and objects to ingredients and instructions to functions, the young students not only quickly grasped the core concepts but also developed their coding skills, unleashing their creativity in the process.
+
+During my tenure at Generation Code, an organization focused on teaching coding to children, I had the opportunity to create a unique lesson that merged two seemingly unrelated worlds: coding and cooking. The goal was to introduce fundamental coding concepts in a manner that would captivate the young learners and make the subject matter more accessible and enjoyable.
+
+## Approach
+Drawing inspiration from the culinary domain, I crafted an analogy that compared coding elements to cooking components. By associating variables and objects with ingredients, and instructions to functions, I aimed to establish a relatable connection between coding concepts and something familiar to the young students – the world of food and cooking. This approach allowed them to visualize and understand how different coding elements work together, just as ingredients and instructions harmonize in a recipe.
+
+## Results
+The results of implementing the cooking analogy in the coding lessons were truly remarkable. The young students not only engaged enthusiastically with the material but also quickly grasped the core concepts. The analogy provided them with a tangible framework to comprehend abstract coding concepts, enabling them to progress rapidly. With this newfound understanding, the students were able to build upon the initial lesson, writing code of their own and exploring their creative potential.
+
+The use of the cooking analogy fostered an environment of curiosity, experimentation, and innovation. By relating coding to something as familiar as cooking, the young learners felt empowered to explore and manipulate code, much like aspiring chefs experimenting with recipes in the kitchen. This approach not only enhanced their comprehension of coding principles but also nurtured their problem-solving skills, critical thinking abilities, and self-expression.
+
+## Next Steps
+I regularly use this code to illustrate functions and varialble for my students. I plan to take it further by creating another story-based tutroial similar to [Alik's Treehouse](https://leighlawhon.github.io/work/2023/07/01/alikas-treehouse.html). 
