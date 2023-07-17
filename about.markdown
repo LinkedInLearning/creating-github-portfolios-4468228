@@ -10,3 +10,12 @@ I started my career as a designer. I was very good at the details of the softwar
 I’m passionate about building beautiful and user-centric products for the web. I am a lifelong learner who loves to teach, which has led to my role as a Product Manager in the EdTech space.
 
 I currently looking for work that utilizes my expertise and industry knowledge and allows me to grow as a Product Manager and strategist.
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.markdown %}
+
+### Soft Skills
+
+{% include softskills.markdown %}
