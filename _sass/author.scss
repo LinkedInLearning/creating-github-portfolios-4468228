@@ -1,0 +1,32 @@
+.author__urls.social-icons a,
+.author__urls.social-icons a:visited,
+.page__footer a,
+.page__footer a:visited {
+    color: #103966;
+    font-weight: 700;
+}
+
+@media only screen and (min-width: 900px) {
+    .sticky {
+        top: 4em;
+    }
+    .masthead.sticky {
+        top: 0;
+    }
+
+    h3.author__name {
+    color: #001933
+    }
+
+    .sidebar.sticky {
+        background-color: #e2f8ff;
+        padding: 1em;
+        max-height: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0em;
+        bottom: 0;
+    }
+    
+}
