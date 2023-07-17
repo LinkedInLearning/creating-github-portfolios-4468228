@@ -259,7 +259,7 @@ Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
 
 ### Links
 * [GitHub Codespaces for Students](https://www.linkedin.com/learning/github-codespaces-for-students/)
-* [>earnoing GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
+* [Learning GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
 
 ## Chapter 4.2 Working in Codespaces: Piece of Cake
 Create repo from zipped project `Piece_of_Cake` in the `zipped_file` folder.
