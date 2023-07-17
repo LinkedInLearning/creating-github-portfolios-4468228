@@ -177,14 +177,6 @@ soft:
 @import "taxonomy";
 ```
 
-### _config
-```yml
-header_scripts:
- - assets/css/custom
-footer_scripts:
-  - /assets/js/animation.js
-```
-
 ### anime.js
 ```javascript
 anime({
