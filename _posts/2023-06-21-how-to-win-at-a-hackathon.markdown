@@ -12,6 +12,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
   teaser:  https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
   caption: "Photo credit: [**Unsplash: Marin Tulard**](https://unsplash.com/@mtulard)"
+description: This series of articles explores how to win at a hackathon even if you don't win the hackathon itself. The first post explores why you should invest in hackathons.
 ---
 >Time  and pressure can change almost anything from what it was into what it has become. Time will change,  “Caterpillar into butterflies, sand into pearls,” and pressure will change “coal into diamonds,” both elements work on us too. 
 — (paraphrased from Rick Warren)

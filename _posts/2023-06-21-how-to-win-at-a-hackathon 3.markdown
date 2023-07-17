@@ -13,7 +13,7 @@ header:
     overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
     teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
     caption: "Photo credit: [**Unsplash: Firosnv. Photography**](https://unsplash.com/@firosnv)"
-
+description: This series of articles explores how to win at a hackathon even if you don't win the hackathon itself. The third post explores how to build on your momentum and push your hackathon ideas out into the world.
 ---
 
 >"No struggle, no success! The strongest thunder strikes often bring the heaviest rainfall! The weight of your fulfillment depends on how wide you cast your nets! If you are trying to look clean, neat and avoid casting your nets in troubled waters, you will catch no fish." 

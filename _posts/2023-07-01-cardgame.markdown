@@ -13,6 +13,7 @@ header:
   teaser: https://images.unsplash.com/photo-1541278107931-e006523892df
   
   caption: "Photo credit: [**Unsplash: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+description: This article showcases a tutorial that teaches learners how to code.
 ---
 
 > To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.

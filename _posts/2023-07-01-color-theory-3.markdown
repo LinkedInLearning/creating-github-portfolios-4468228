@@ -11,8 +11,10 @@ header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   caption: "Photo credit: [**Unsplash: Robert Katzki**](https://unsplash.com/@ro_ka)"
+description: This series of articles explains basic color theory. The third post explores tips for designing a color palette.
+
 ---
-# Tips on Designing a Color Palette
+# Tips for Designing a Color Palette
 In the first two sections of this book, Color Limitations and Color and Emotions, we looked at some interesting facts about color and some of the context around their meaning. This provides tips for choosing a harmonious color palette, that will bring your designs and graphics together. In the next section, we will look at when and why choosing color to separate your design and graphics is important.
 
 ## Create Harmonies

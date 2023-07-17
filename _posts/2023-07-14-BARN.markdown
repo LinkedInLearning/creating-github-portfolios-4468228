@@ -13,6 +13,7 @@ header:
   teaser: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
   
   caption: "Photo credit: [**Unsplash: Frances Gunn**](https://unsplash.com/@francesgunn)"
+description: This article explains the BARN method, a framework for showcasing your projects.
 ---
 
 # Introduction

@@ -11,6 +11,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   caption: "Photo credit: [**Unsplash: Robert Katzki**](https://unsplash.com/@ro_ka)"
+description: This series of articles explains basic color theory. The second post explores color and emotions.
 ---
 # Color and Emotions
 Mention Thanksgiving to any American and they will paint a picture in their head with gold, orange, red, and brown hues. It will also likely invoke a sense of family, gathering, and thankfulness. Colors, and the emotions we associate with them, are not exclusive. If I were to show you a picture of red roses, a champagne bottle with an orange label and a gold foil box of chocolates, you would see the same colors but perhaps think of a different holiday and a different emotion.

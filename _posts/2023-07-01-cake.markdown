@@ -13,7 +13,10 @@ header:
   teaser: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3
   
   caption: "Photo credit: [**Unsplash: Annie Spratt**](https://unsplash.com/@anniespratt)"
+description: This article showcases a tutorial that teaches kids how to code.
 ---
+
+# Piece of Cake
 
 > To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.
 

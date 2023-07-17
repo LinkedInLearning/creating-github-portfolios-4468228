@@ -12,7 +12,9 @@ header:
   overlay_image: https://images.unsplash.com/photo-1542831371-29b0f74f9713
   teaser: https://images.unsplash.com/photo-1542831371-29b0f74f9713
   caption: "Photo credit: [**Unsplash: Florian Olivio**](https://unsplash.com/@florianolv)"
+description: This article showcases a tutorial that teaches kids how to code.
 ---
+# Alika's Treehouse
 ## Background
 This project won the Capital One Women In Tech Demo Day. The challenge, “Help young women of color see themselves as a Computer Scientist," was sponsored by Black Girls Code. I deeply related to this challenge, as my father is in the tech industry but it took me until my 30s to see myself as someone who could be a developer.
 
