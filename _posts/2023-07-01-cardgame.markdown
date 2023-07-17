@@ -1,0 +1,32 @@
+---
+layout: posts
+title:  "Shuffling Cards"
+date:   2023-07-01 16:13:27 -0500
+tags: [tutorial, javascript]
+author_profile: true
+author: Leigh Stewardson
+categories: work
+highlight_home: true
+tagline: "How to build a card game"
+header:
+  overlay_image: https://images.unsplash.com/photo-1541278107931-e006523892df
+  teaser: https://images.unsplash.com/photo-1541278107931-e006523892df
+  
+  caption: "Photo credit: [**Unsplash: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+---
+
+> To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.
+
+![go live](/assets/images/golive.png)
+
+## Background
+A few years ago, I had the opportunity to build an app for LinkedIn Learning. The project aimed to teach the concepts of binding and propagation in plain JavaScript. Over a span of two months, I meticulously developed the course, and the recording took place at the LinkedIn campus in Carpenteria, CA. This venture marked my first tutorial collaboration with LinkedIn, and it proved to be an incredible experience. I came across this opportunity through a job board dedicated to female developers, and the entire process, from working with the content manager to the producer, was highly professional.
+
+## Approach
+In all my courses, I strive to create a narrative that complements the learning objectives. In the case of this particular project, I found that using cards as an analogy was a natural fit. By leveraging this analogy, I was able to elucidate complex JavaScript concepts in a simplified and easily understandable format for learners.
+
+## Results
+Upon publication, the course garnered significant attention, accumulating over 6,500 viewers to date. It remains one of my personal favorite tutorials, as it encapsulates my passion for teaching and the JavaScript language.
+
+## Next Steps
+After witnessing the success of the cooking-inspired coding lesson, I am thrilled to share that I am incorporating the "Piece of Cake" app in my current tutorial, "Creating GitHub Portfolios." This exciting project seamlessly integrates with Codespaces, offering learners a hands-on demonstration of leveraging GitHub portfolios effectively. By including the "Piece of Cake" code, my objective is to enrich the overall learning experience, enabling individuals to showcase their skills with confidence and flair.
