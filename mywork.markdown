@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories_work
 title: My Work
 ---
 
