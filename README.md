@@ -245,8 +245,8 @@ I am a self-taught programmer, instructor, product manager, game developer, pain
 ### Adding images to an Article
 ```markdown
 header:
-  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
