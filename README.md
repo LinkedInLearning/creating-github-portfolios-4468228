@@ -247,7 +247,19 @@ No notes.
 # Hi! I'm Leigh Stewardson. 
 I am a self-taught programmer, instructor, product manager, game developer, painter and writer. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
 ```
-
+```markdown
+Leigh Stewardson:
+  name        : "Leigh Stewardson"
+  bio         : "Let's talk about code! Reach out via the links below."
+  avatar      : "https://placehold.co/400"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.mywebsite.com"
+```
 ### Adding images to an Article
 ```markdown
 header:
