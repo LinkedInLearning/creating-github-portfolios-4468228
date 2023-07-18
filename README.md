@@ -186,7 +186,7 @@ soft:
 ### anime.js
 ```javascript
 anime({
-    targets: ".grid__item",
+    targets: [".grid__item", ".list__item"],
     scale: [
         { value: 1, duration: 800 },
         { value: 1.1, duration: 200 },
