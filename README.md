@@ -158,6 +158,7 @@ soft:
 ## Chapter 2.4 Customizing your site
 ### Custom.html
 ```html
+<link rel="stylesheet" href="/assets/css/custom.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link
@@ -165,6 +166,7 @@ soft:
     rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
 ```
+
 ### Custom.scss
 ```scss
 --- 
