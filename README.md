@@ -59,7 +59,7 @@ To resolve this issue:
 
 ### Links
 * [Jekyll tutorial](https://www.linkedin.com/learning/learning-static-site-building-with-Jekyll)
-* [Jekyll documentation](https://jekyllrb.com/docs/)
+* [Jekyll documentation for Ubuntu install](https://jekyllrb.com/docs/installation/ubuntu/)
 
 ### Gemfile:
 ```yaml
