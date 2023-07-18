@@ -61,6 +61,10 @@ To resolve this issue:
 * [Jekyll tutorial](https://www.linkedin.com/learning/learning-static-site-building-with-Jekyll)
 * [Jekyll documentation](https://jekyllrb.com/docs/)
 
+```
+jekyll new . --force
+```
+
 ### Gemfile:
 ```yaml
 gem "minimal-mistakes-jekyll"
