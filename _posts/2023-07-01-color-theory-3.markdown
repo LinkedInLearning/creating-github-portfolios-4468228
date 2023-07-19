@@ -25,7 +25,7 @@ Use Tints, Shades, Saturation, Warm and Cool Instead of Additional Colors
 Often, when choosing colors for a design or graphic, we are sometimes too quick to jump to a new hue, giving our work a rainbow effect. Instead, consider adjusting a limited color palette of two to three colors by adding white, known as creating tints; adding black, known as creating shades; and adding greys, known as desaturation.
 Additionally, you can adjust your colors by moving your colors left or right on the color wheel, which is know as making your colors warmer or cooler. This can be seen in the analogous color harmony above where the main color is in the middle; the warmer colors, or colors that move more toward the reds and oranges, are to its right; and the cooler colors, or colors that move toward blues and greens are to its left.
 
-![Adobe Illustrator](/assets/images/adobe_ill.png)
+![Adobe Illustrator](https://placehold.co/400)
 
 ## Remember to Balance Your Color with Different Weights
 When designing a color palette, it is good to remember that you should not treat your colors equally.
@@ -38,7 +38,7 @@ The same applies in color. Make one color your primary color and use the rest to
 
 Notice how Adobe’s graphic design-based products, Illustrator and InDesign, are analogous and are pink and orange; the web products, Dreamweaver and Muse, are cool and warm versions of green; the video products, After Effects and PremierPro are a saturated and desaturated version of two violets that are very close; and Photoshop, Adobe’s flagship photography product, is blue. Even though the current branding material has a lot going on you can still identify the key color in the image.
 
-![Adobe packaging](/assets/images/adobe_packaging.png)
+![Adobe packaging](https://placehold.co/400)
 
 > “Good Artists Borrow, Great Artists Steal.”
 —Pablo Picasso
