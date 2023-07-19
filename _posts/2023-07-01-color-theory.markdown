@@ -38,7 +38,8 @@ This section on Color Limitations will address some common drawbacks to using co
 
 ## The Visible Spectrum
 The visible color spectrum is measured in wavelengths and begins with violet at 380 nm and ends with red around 750 nm. This band makes up the full spectrum of what can be seen by the human eye. However, the human eye and the devices we use to capture and reproduce color have limitations when it comes to rendering this spectrum.
-![spectrum](/assets/images/spectrum.png)
+
+![spectrum](https://placehold.co/400)
 
 ## Color Blindness and 508 Compliance
 The retina has two types of cells that respond to light, rods and cones. Rods pick up on the intensity of light and give
@@ -46,7 +47,7 @@ us low light vision. Cones are more specialized and occur in three types, each c
 
 In the DC metro map below, you will see it can be quite difficult for someone with color blindness to follow the subway lines, especially where the Green and Red lines intersect for people with Deuteranopia. To compensate for this, you will notice that the map designers have added labels at the ends of each line, making it possible to identify them without color.
 
-![dc metro map](/assets/images/dc_metro.png)
+![dc metro map](https://placehold.co/400)
 
 If you are concerned about how your data is perceived by people with color blindness or need to be 508 compliant, you can check it with one of the many free tools listed at the W3C.
 
@@ -58,11 +59,13 @@ of reproducible colors. Your computer monitor is not able to produce the full co
 
 
 Here are two representations of the ranges, or gamut, of color devices. In the first shape shown below, the rounded outer shape represents the visible spectrum mentioned above; what we can see with our eye. The inner triangle shows device color. As you can see it is quite a bit smaller than the visible spectrum. The second image to the right is more device specific and shows the top and bottom of a 3D color model. The outer shape (white mesh shape) represents the color that a typical LCD monitor can produce.
-![spectrum](/assets/images/spectrum3.png){:.avatar} 
+
+![spectrum](https://placehold.co/400){:.avatar} 
 
 The inner core (color shape) is what can be produced by a high-end printer. Once again, it is a much smaller, and you will notice that there are some
 colors that can be produced in print that cannot be captured on a monitor.
-![spectrum](/assets/images/spectrum2.png) 
+
+![spectrum](https://placehold.co/400) 
 
 
 ## You Can’t Always Trust What You See
@@ -70,9 +73,9 @@ One of the most shocking things I learned as an artist is that color has the ill
 
 ## Vibrations
 Some colors vibrate when put next to other colors. In the chart below, you can see that, not only does it almost “hurt” to look at these colors, the text becomes very difficult to read without looking away. This is not something that you want your audience to experience.
-![vibration](/assets/images/vibration.png)
+![vibration](https://placehold.co/400)
 
-![van gogh](/assets/images/vangogh.png){:.avatar} 
+![van gogh](https://placehold.co/400){:.avatar} 
 However, this same effect is often used by artists to add energy to their paintings.
 Notice how in Van Gogh’s Café Terrace, the artist uses the vibration of orange on the distant blue buildings to make the lights pop. Additionally, the yellow/orange colors
 of the cafe push it forward and in front of the taller blue building behind it.
@@ -80,4 +83,4 @@ of the cafe push it forward and in front of the taller blue building behind it.
 ## Contrast
 Each color has their own value, or level of “greyness.” If the values of two colors are too close, like the example below, then the contrast is too low, with
 “weak energy,” and can be difficult for someone with vision problems to see it. Again, there are many free contrast checking tools listed at the W3C.
-![contrast](/assets/images/contrast.png) 
+![contrast](https://placehold.co/400) 
