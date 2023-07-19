@@ -47,11 +47,11 @@ you are creating data that will be represented to your colleagues in another cou
 * What colors have personal meaning to my message, brand, or information?
 
 ## Continued Reading on emotion and color:
-http://www.brainpickings.org/index.php/2012/08/17/goethe-theory-of-colours/
-http://www.winsornewton.com/resource-centre/product-articles/vermilion-cadmium-red
-http://www.livescience.com/33324-purple-roy-al-color.html
-http://thelogocompany.net/blog/infographics/psychology-color-logo-design/
-http://tympanus.net/codrops/2012/04/03/color-and-emotion-what-does-each-hue-mean/
-http://www.color-wheel-pro.com/color-meaning.html
-http://www.colorcom.com/research/why-color-matters
-http://www.colormatters.com/ http://www.colorsystem.com/
+* http://www.brainpickings.org/index.php/2012/08/17/goethe-theory-of-colours/
+* http://www.winsornewton.com/resource-centre/product-articles/vermilion-cadmium-red
+* http://www.livescience.com/33324-purple-roy-al-color.html
+* http://thelogocompany.net/blog/infographics/psychology-color-logo-design/
+* http://tympanus.net/codrops/2012/04/03/color-and-emotion-what-does-each-hue-mean/
+* http://www.color-wheel-pro.com/color-meaning.html
+* http://www.colorcom.com/research/why-color-matters
+* http://www.colormatters.com/ http://www.colorsystem.com/
