@@ -213,7 +213,7 @@ No notes.
     {% if cat_tags != empty %}
     <li>
         <a href="#{{ tag[0] | slugify }}">
-            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+            <strong>{{ tag[0] }}</strong> 
         </a>
     </li>
     {% endif %}
