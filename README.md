@@ -22,9 +22,7 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [Node.JS](https://nodejs.org/en/download)
- 	- [Jekyll](https://jekyllrb.com/docs/)
-  	- [Jekyll Prerequisites](https://jekyllrb.com/docs/installation/#requirements)
+	- All packages will be installed during the course.
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 # Chapter Notes
@@ -34,13 +32,7 @@ To resolve this issue:
 ### Links
 * [Jekyll theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 * [Jekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
-
-## Introduction
-* [Minimal Mistakes Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-)
-* [Minimal Mistakes Repository](https://github.com/mmistakes/minimal-mistakes
-)
-* [Michael Rose's website](https://mademistakes.com/)
+* [Jekyll Documents](https://jekyllrb.com/docs/)
 
 ## What you Should Know
 * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
@@ -48,6 +40,13 @@ To resolve this issue:
 * [CSS Fundementals](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling?u=2125562)
 * [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training?u=2125562)
 * [Learning Node.JS](https://www.linkedin.com/learning/learning-node-js-2017?u=2125562)
+
+### Links to Michael Rose's work
+* [Minimal Mistakes Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+)
+* [Minimal Mistakes Repository](https://github.com/mmistakes/minimal-mistakes
+)
+* [Michael Rose's website](https://mademistakes.com/)
 
 ## Chapter 1.1 Purpose of a Portfolio
 
