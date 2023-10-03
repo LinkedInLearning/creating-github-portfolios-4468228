@@ -1,5 +1,10 @@
-# Creating GitHub Portfolios!
-This is the repository for the LinkedIn Learning course `Creating GitHub Portfolios`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Creating GitHub Portfolios
+This is the repository for the LinkedIn Learning course Creating GitHub Portfolios. The full course is available from [LinkedIn Learning][lil-course-url].
+
+![Creating GitHub Portfolios][lil-thumbnail-url] 
+
+Are you a developer looking to promote your work? In this course, Leigh Lawhon
+shows you how to build and showcase your work by building a portfolio site with GitHub Pages. Join Leigh to learn some design basics and how to utilize Codespaces to set up projects in minutes. She shows you how to use the site generator Jekyll, provides helpful coding samples, and an overview of what employers are looking for. Plus, learn how to support your work with visual and writing skills that complement your coding skills. If you want to show off the work you’ve done in a professional and easy to navigate site, join Leigh in this course.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -310,8 +315,16 @@ Here are a list of projects you might want to consider for your portfolio:
 * [Become a Full-stack Web Developer](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer)
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Leigh Lawhon 
+                            
+Front-end Developer
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/leigh-lawhon).
+
+[lil-course-url]: https://www.linkedin.com/learning/creating-github-portfolios?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHb6A88I31N6g/learning-public-crop_675_1200/0/1695927519195?e=2147483647&v=beta&t=yD1FdZLj3ncXLJ4NuXzjOZUaUIQrzi9gtYIWzDsazKk
 
